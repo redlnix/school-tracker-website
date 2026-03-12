@@ -1,2 +1,2 @@
-let name = prompt("what is your name")
-console.log("name is " + name)
+const name_button = document.getElementbyId("name_button")
+const 
